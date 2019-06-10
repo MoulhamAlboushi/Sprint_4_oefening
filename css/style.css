@@ -1,0 +1,24 @@
+.item {
+  background-color: aqua;
+  border: 2px ccc solid;
+  padding: 2rm;
+  margin: 1rem;
+  text-align: center;
+}
+#container {
+  border: 1px black solid;
+  padding: 5px;
+  margin: 5px;
+}
+.month {
+  background-color: chartreuse;
+}
+.day {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.hour {
+  font-style: italic;
+  border: 1px black solid;
+  padding: 5px;
+  margin: 5px;
+}
