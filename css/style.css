@@ -16,12 +16,14 @@
 }
 .day {
   font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: darkslategray;
 }
 .hour {
   font-style: italic;
   border: 1px black solid;
   padding: 5px;
   margin: 5px;
+  background-color: coral;
   /*display inline*/
  /* display: flex inline; 
 }
