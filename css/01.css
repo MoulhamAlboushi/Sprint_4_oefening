@@ -1,0 +1,10 @@
+.manth {
+  background-color: gray;
+  border: 1px solid black;
+  padding: 3px;
+  margin: 5px;
+  text-align: center;
+}
+#container {
+  display: flex;
+}
