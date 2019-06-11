@@ -1,6 +1,7 @@
 .box {
   width: 100px;
   height: 100px;
+  border: 1px black solid;
 }
 #box_1 {
   background: red;
@@ -40,41 +41,39 @@
 #bo_5 {
   background: gold;
 }
-#mix_1{
-   background: red;
-   position: relative;
-   top: 150px;
-   left: 20px;
+#mix_1 {
+  background: red;
+  position: relative;
+  top: 50px;
+  left: 50px;
 }
 
-#mix_2{
-   background: green;
-   position: relative;
-   top: 150px
-   left: 20px
+#mix_2 {
+  background: green;
+  position: relative;
+  bottom: 52px;
+  left: 25px;
 }
-#mix_3{
-   background:blue;
-   position: relative;
-   top: 150px
-   left: 20px
+#mix_3 {
+  background: blue;
+  position: relative;
+  top: 130px;
+  left: 40px;
 }
-
+/*
 #mix_4{
    background: cyan;
    position: relative;
-   top: 150px
-   left: 20px
+  
 }
 #mix_5{
    background: gold;
    position: relative;
-   top: 150px
-   left: 20px
+   
 }
 #mix_6{
    background: brown;
    position: relative;
-   top: 150px
-   left: 20px
+   
 }
+*/
