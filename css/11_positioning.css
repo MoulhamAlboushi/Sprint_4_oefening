@@ -60,20 +60,19 @@
   top: 130px;
   left: 40px;
 }
-/*
-#mix_4{
-   background: cyan;
-   position: relative;
-  
+.container {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: #333333;
 }
-#mix_5{
-   background: gold;
-   position: relative;
-   
+
+#mix_4 {
+  background: cyan;
 }
-#mix_6{
-   background: brown;
-   position: relative;
-   
+#mix_5 {
+  background: gold;
 }
-*/
+#mix_6 {
+  background: brown;
+}
