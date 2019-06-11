@@ -1,0 +1,80 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+#box_1 {
+  background: red;
+}
+
+#box_2 {
+  background: green;
+}
+#box_3 {
+  background-color: blue;
+}
+#box_4 {
+  background-color: cyan;
+}
+#box_5 {
+  background: gold;
+}
+
+#bo_1 {
+  background: red;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+#bo_2 {
+  background: green;
+}
+#bo_3 {
+  background: blue;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}
+#bo_4 {
+  background: cyan;
+}
+#bo_5 {
+  background: gold;
+}
+#mix_1{
+   background: red;
+   position: relative;
+   top: 150px;
+   left: 20px;
+}
+
+#mix_2{
+   background: green;
+   position: relative;
+   top: 150px
+   left: 20px
+}
+#mix_3{
+   background:blue;
+   position: relative;
+   top: 150px
+   left: 20px
+}
+
+#mix_4{
+   background: cyan;
+   position: relative;
+   top: 150px
+   left: 20px
+}
+#mix_5{
+   background: gold;
+   position: relative;
+   top: 150px
+   left: 20px
+}
+#mix_6{
+   background: brown;
+   position: relative;
+   top: 150px
+   left: 20px
+}
