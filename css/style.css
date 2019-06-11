@@ -22,16 +22,16 @@
   font-style: italic;
   border: 1px black solid;
   padding: 5px;
-  margin: 5px;
+
   background-color: coral;
   /*display inline*/
- /* display: flex inline; 
+  /* display: flex inline; 
 }
 label {
   display: inline;
+  */
 }
 h3 {
   padding: 0px;
   margin: 0px;
 }
-*/
