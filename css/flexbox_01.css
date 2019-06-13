@@ -1,0 +1,13 @@
+#container {
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  background-color: blueviolet;
+  color: beige;
+  border: 1px black solid;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+}
