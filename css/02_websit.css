@@ -1,0 +1,24 @@
+.header {
+  background-color: #f6b4c4;
+  border: black solid 1px;
+  color: blue;
+}
+.section_1,
+.article_1 {
+  background-color: aqua;
+  border: black solid 1px;
+  margin: 5px;
+  padding: 5px;
+  width: 400px;
+}
+.article_1 {
+}
+.navigation {
+  background-color: cadetblue;
+  border: 1px black solid;
+}
+.footer {
+  background: black;
+  color: aliceblue;
+  border: 1px black solid;
+}
