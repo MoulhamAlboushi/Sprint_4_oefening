@@ -26,11 +26,22 @@ h5 {
 .navigation {
   border: 1px black solid;
   width: 30%;
+  height: 300px;
   padding: 5px;
   margin: 5px;
   float: right;
 }
-.links {
+a {
+  color: rgb(218, 72, 72);
+  text-decoration: none;
+}
+.btn {
+  background: #4c6ca0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 5px;
 }
 
 .clr {
