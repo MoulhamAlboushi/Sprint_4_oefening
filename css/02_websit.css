@@ -14,14 +14,12 @@ h5 {
   margin: 5px;
   background-color: rgb(221, 221, 63);
   padding: 5px;
-  display: block inline;
   float: left;
 }
 .article_1 {
   border: black solid 1px;
   margin: 5px;
   padding: 5px;
-  width: 100 %;
   background-color: bisque;
 }
 
@@ -32,6 +30,9 @@ h5 {
   margin: 5px;
   float: right;
 }
+.links {
+}
+
 .clr {
   clear: both;
 }
