@@ -1,29 +1,39 @@
 .header {
-  background-color: #f6b4c4;
   border: black solid 1px;
   color: blue;
+  padding: 5px;
+  margin: 5px;
 }
 .section_1,
 .article_1 {
-  background-color: aqua;
   border: black solid 1px;
   margin: 5px;
   padding: 5px;
-  width: 30%;
+  width: 33%;
 }
-/* .article_1 { */
-/* } */
+.section_1 {
+  fload: left;
+}
+
 .main {
   max-width: 960px;
   box-sizing: border-box;
   text-align: justify;
 }
 .navigation {
-  background-color: cadetblue;
   border: 1px black solid;
+  width: 55%;
+  float: right;
+  padding: 5px;
+  margin: 5px;
 }
 .footer {
   background: black;
   color: aliceblue;
   border: 1px black solid;
+  margin: 5px;
+  padding: 5px;
+}
+.clr {
+  clear: both;
 }
