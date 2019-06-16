@@ -4,7 +4,14 @@
   padding: 5px;
   margin: 5px;
 }
-.section_1,
+.main {
+  border: 1px black solid;
+  width: 60%;
+  margin: 5px;
+  background-color: rgb(221, 221, 63);
+  padding: 5px;
+  display: block inline;
+}
 .article_1 {
   border: black solid 1px;
   margin: 5px;
@@ -12,29 +19,17 @@
   width: 33%;
   background-color: bisque;
 }
-.section_1 {
-}
-.arti cle_1 {
-  float: left;
-  margin: auto;
-}
 
-.main {
-  border: 1px black solid;
-  width: 80%;
-  margin: auto;
-}
 .navigation {
   border: 1px black solid;
-  width: 55%;
-  float: left;
+  width: 30%;
   padding: 5px;
   margin: 5px;
+  float: right;
 }
 .clr {
   clear: both;
 }
-
 .footer {
   background: black;
   color: aliceblue;
