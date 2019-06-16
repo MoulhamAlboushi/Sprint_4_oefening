@@ -9,9 +9,14 @@
   border: black solid 1px;
   margin: 5px;
   padding: 5px;
-  width: 400px;
+  width: 30%;
 }
-.article_1 {
+/* .article_1 { */
+/* } */
+.main {
+  max-width: 960px;
+  box-sizing: border-box;
+  text-align: justify;
 }
 .navigation {
   background-color: cadetblue;
