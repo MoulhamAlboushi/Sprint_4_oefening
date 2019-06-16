@@ -6,17 +6,18 @@
 }
 .main {
   border: 1px black solid;
-  width: 60%;
-  margin: 5px;
+  width: 50%;
+  margin: auto;
   background-color: rgb(221, 221, 63);
   padding: 5px;
   display: block inline;
+  float: left;
 }
 .article_1 {
   border: black solid 1px;
   margin: 5px;
   padding: 5px;
-  width: 33%;
+  width: 100 %;
   background-color: bisque;
 }
 
