@@ -10,30 +10,35 @@
   margin: 5px;
   padding: 5px;
   width: 33%;
+  background-color: bisque;
 }
 .section_1 {
-  fload: left;
+}
+.arti cle_1 {
+  float: left;
+  margin: auto;
 }
 
 .main {
-  max-width: 960px;
-  box-sizing: border-box;
-  text-align: justify;
+  border: 1px black solid;
+  width: 80%;
+  margin: auto;
 }
 .navigation {
   border: 1px black solid;
   width: 55%;
-  float: right;
+  float: left;
   padding: 5px;
   margin: 5px;
 }
+.clr {
+  clear: both;
+}
+
 .footer {
   background: black;
   color: aliceblue;
   border: 1px black solid;
   margin: 5px;
   padding: 5px;
-}
-.clr {
-  clear: both;
 }
