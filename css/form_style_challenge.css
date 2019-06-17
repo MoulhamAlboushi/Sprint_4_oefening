@@ -1,20 +1,35 @@
 body {
-  font-family: "Fjalla One", sans-serif;
-  color: white;
-  line-height: 1.8;
   background-color: #64a5e6;
 }
 a {
   text-decoration: none;
 }
-.container {
-  margin: auto;
 
-  background-color: aliceblue;
-  /* widows: 50%; */
+.contianer {
+  margin: 30px auto;
+  max-width: 400px;
+  padding: 20px;
+  display: inline-block;
+
+  background-color: rgb(21, 160, 128);
 }
+.form-wrap {
+  background: #64a5e6;
+  padding: 15px 25px;
+}
+
+label {
+  display: block;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+#contianer {
+  margin: center;
+  font-family: "Fjalla One", sans-serif;
+  color: white;
+  line-height: 1.8;
 }
