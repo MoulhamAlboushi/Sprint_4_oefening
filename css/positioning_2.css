@@ -1,0 +1,31 @@
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+#box_1 {
+  background-color: red;
+  position: reative;
+  top: 50px;
+  left: 50px;
+}
+/* #container { 
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+}
+*/
+#box_2 {
+  /* position: absolute; */
+  background-color: green;
+}
+#box_3 {
+  /* position: absolute; */
+  background-color: blue;
+}
+#box_4 {
+  background-color: yellow;
+}
+#box_5 {
+  background-color: black;
+}
